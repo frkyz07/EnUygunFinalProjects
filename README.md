@@ -14,7 +14,7 @@
   
   https://github.com/frkyz07/EnUygunAPITestingPetStore
   
-### PatikaAppium Project Mobile Testing
+### PatikaAppium Project Mobile Testing
 
   https://github.com/frkyz07/AppiumProject
    
